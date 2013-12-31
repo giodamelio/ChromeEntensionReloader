@@ -1,1 +1,1 @@
-coffee --watch --compile extension/src/*.coffee
+coffee --watch --map --compile extension/src/*.coffee
