@@ -1,0 +1,1 @@
+coffee --watch --compile extension/src/*.coffee
