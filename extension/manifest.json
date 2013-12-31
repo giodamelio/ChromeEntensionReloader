@@ -10,5 +10,7 @@
     "browser_action": {
         "default_icon": "images/256x256.png",
         "default_title": "Chrome Auto Reloader"
-    }
+    },
+
+    "options_page": "options.html"
 }
